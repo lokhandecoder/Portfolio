@@ -4,6 +4,7 @@
   "homepage": "https://lokhandecoder.github.io/Portfolio",
   "private": true,
   "dependencies": {
+    "animate.css": "^4.1.1",
     "gh-pages": "^5.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
